@@ -18,7 +18,7 @@ This is a *README* file for my repository. It is written using **Markdown**.
       <p>Description of my artwork.</p>
     </div>
     <div class="portfolio-item">
-          </div>https://cdna.artstation.com/p/assets/images/images/003/732/362/large/rafael-de-jongh-vaporwave.jpg?1476907882
+          <img src="https://cdna.artstation.com/p/assets/images/images/003/732/362/large/rafael-de-jongh-vaporwave.jpg?1476907882"
     </div>
   </body>
 </html>
