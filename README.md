@@ -1,5 +1,5 @@
 # jarrylancheta.github.io
-# My Name
+# Jarryl Ancheta
 
 ### I am an artist. This is my portfolio site.
 
