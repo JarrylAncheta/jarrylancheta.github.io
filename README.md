@@ -13,7 +13,6 @@ This is a *README* file for my repository. It is written using **Markdown**.
   </head>
   <body>
     <h1>Hello World -- This is my website!</h1>
-    <p>I'm making this to host my portfolio for free. To learn more, read my <a href="statement.html">artist's statement.</a></p>
     <div class="portfolio-item">
       <iframe src="https://player.vimeo.com/video/45489909" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
       <h3>Title, medium, year</h3>
