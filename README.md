@@ -19,8 +19,6 @@ This is a *README* file for my repository. It is written using **Markdown**.
       <p>Description of my artwork.</p>
     </div>
     <div class="portfolio-item">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Duchamp_Fountaine.jpg" alt="Duchamp Toilet">
-      <h3><em>Fountaine</em>, Marcel Duchamp, 1917</h3>
       <p>https://cdna.artstation.com/p/assets/images/images/003/732/362/large/rafael-de-jongh-vaporwave.jpg?1476907882</p>
     </div>
   </body>
