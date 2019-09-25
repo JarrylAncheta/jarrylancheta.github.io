@@ -8,7 +8,7 @@ This is a *README* file for my repository. It is written using **Markdown**.
 <html>
   <head>
     <meta charset="utf-8">
-    <title>(your name)</title>
+    <title>(Jarryl Ancheta)</title>
     <link rel="stylesheet" type="text/css" href="main.css">
   </head>
   <body>
